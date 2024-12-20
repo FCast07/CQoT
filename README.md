@@ -72,7 +72,7 @@ Here we can preview the outcome of the experiments we accomplished to evaluate C
 
 
 <br><br>
-
+--------------------------------------------------------------------
 If you find our paper or pipeline useful, please consider referencing it:
 ```
 @misc{castagna2024criticalquestionsofthoughtsteeringllmreasoning,
